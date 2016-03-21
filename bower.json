@@ -1,0 +1,34 @@
+{
+  "name": "javascript-load-image",
+  "description": "Load images using Javascript",
+  "author": {
+    "name": "Sebastian Tschan",
+    "url": "https://blueimp.net"
+  },
+  "homepage": "hhttps://github.com/blueimp/JavaScript-Load-Image",
+  "main": [
+    "js/load-image.all.min.js"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+      "**/.*",
+      "css",
+      "js/vendor",
+      "js/demo.js",
+      "js/load-image.js",
+      "js/load-image-exif.js",
+      "js/load-image-exif-map.js",
+      "js/load-image-meta.js",
+      "js/load-image-orientation.js",
+      "js/load-image.all.min.js.map",
+      "node_modules",
+      "test",
+      "index.html",
+      "package.json",
+      "README.md"
+      
+  ],
+  "license": "MIT"
+}
